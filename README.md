@@ -1,7 +1,7 @@
 
 # CLIFFY
 ### Last update: 19/5/2020
-### vesion: 0.0.2a
+### Version: 0.0.2a
 
   
 ## Information
