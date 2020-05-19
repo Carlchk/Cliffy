@@ -1,12 +1,12 @@
 
 # CLIFFY
-### Last update: 16/5/2020 191137
-### vesion: 0.0.1a
+### Last update: 19/5/2020
+### vesion: 0.0.2a
 
   
 ## Information
 
-This project started from late 2019. And it just a simple Flutter project for me practice the dart languge and learn the working principle of flutter. I use 5 days to make 
+This project started from late 2019. And it just a simple Flutter project for me practice the dart languge and learn the working principle of flutter. I use 5 days to make small change on user interface.
 
 **This application only tested on iOS simulator ( iPhone 11 Pro, iOS 13.4 ).**
 
@@ -24,8 +24,8 @@ This project started from late 2019. And it just a simple Flutter project for me
 ## Work in progress
 
 * Dark mode
-
-* ...
+* More function on searchbar
+* more is coming?
 
   
 
