@@ -16,7 +16,7 @@ This project started from late 2019. And it just a simple Flutter project for me
 
 * Basic interactive user interface
 * Map to indicate the location from json data
-* Integrated with OpenStreetMap(OSM)
+* Integrated with [OpenStreetMap(OSM)](https://wiki.openstreetmap.org/wiki/API)
 * Custom searching function on json data
 
   
